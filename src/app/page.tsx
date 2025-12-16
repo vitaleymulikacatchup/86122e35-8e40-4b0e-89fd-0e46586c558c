@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
 import HeroGlobeOverlay from '@/components/sections/hero/HeroGlobeOverlay';
