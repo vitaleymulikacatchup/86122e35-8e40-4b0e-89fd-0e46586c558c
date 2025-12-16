@@ -170,7 +170,7 @@ export default function LandingPage() {
       
       <div id="faq" data-section="faq">
         <FaqBase
-          title="Frequently Asked Questions"
+          title="FAQ"
           description="Everything parents and students need to know about learning on our platform"
           tag="Help"
           tagIcon={HelpCircle}
